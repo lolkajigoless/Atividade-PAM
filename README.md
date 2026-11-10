@@ -7,6 +7,7 @@ npx expo install --fix
 npx expo start
 ```
 
-```para instalar todos os pacotes dnv
+## para instalar todos os pacotes dnv
+```
 npm install
 ```
