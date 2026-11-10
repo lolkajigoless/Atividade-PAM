@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Rastreador de Entregas",
+    "slug": "rastreador-entregas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-notifications"]
+  }
+}
